@@ -1,0 +1,8 @@
+export type Env = {
+    TURSO_PLATFORM_AUTH_TOKEN: string;
+    TURSO_GROUP_AUTH_TOKEN: string;
+    TURSO_CENTRAL_DATABASE_URL: string;
+    TURSO_SCHEMA_DATABASE_NAME: string;
+    TURSO_ORGANIZATION_NAME: string;
+    TURSO_GROUP_NAME: string;
+};
